@@ -11,7 +11,7 @@
     "ag-grid": "^18.1.2",
     "ag-grid-community": "^23.0.2",
     "ag-grid-react": "^23.0.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "downloadbutton": "^1.0.0",
     "jspdf": "^1.4.1",
